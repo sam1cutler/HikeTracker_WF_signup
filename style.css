@@ -1,0 +1,38 @@
+/*--- main body styles ---*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+nav, footer {
+  padding: 1%;
+  background-color: rgb(148, 148, 148);
+}
+
+header {
+  padding: 5%;
+}
+
+section {
+  padding: 10px;
+  background-color: rgb(221, 221, 221);
+}
+
+.signup-form {
+  margin: 0 auto;
+  padding: 10px;
+  max-width: 650px;
+  text-align: left;
+  background-color: rgb(151, 151, 151);
+}
+
+.signup-form-section {
+  margin: 5px;
+  background-color: rgb(192, 192, 192);
+}
+
